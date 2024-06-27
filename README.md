@@ -2,7 +2,7 @@
 
 - I'm a passionate Software Developer with a strong interest in Java and AWS. 
 - I'm constantly exploring new ways to innovate and solve real-world problems through technology.
-- I’m currently looking for internships for this Fall of '23.
+- I’m currently looking for full time opportunities for 2024.
 
 ## About Me
 
