@@ -16,7 +16,7 @@
 - 🚀Front End: HTML 5 CSS JavaScript
 - 💡Back End: Java Python
 - ⭐Certification: AWS Cloud Practitioner
-- 🔨Tools and Technologies: GIT, Tableau, AWS
+- 🔨Tools and Technologies: GIT, Power BI, AWS
   
 
 ## Connect with Me
