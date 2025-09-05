@@ -8,7 +8,6 @@
 
 - 🧑‍🎓 Student at the University of Colorado Denver
 - 🌱 I'm currently improving my skills in Cloud Computing and Coding.
-- 📫 Reach me at rohitha.gorantla4@gmail.com
 - ⚡ Fun fact: Eager to learn new things
 
 ## Skills
